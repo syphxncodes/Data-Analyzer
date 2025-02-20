@@ -49,7 +49,7 @@ First, prerequisites to download this particular application:
 - [Python](https://www.python.org/downloads/) installed on your machine.
 
   ```bash
-  git clone https://github.com/syphxncodes/Alzheimer-Disease-Detection.git
+  git clone https://github.com/syphxncodes/Data-Analyzer.git
 Change the directory of your command prompt to the cloned repo
   ```bash
     cd Data-Analyser
